@@ -138,7 +138,7 @@ document.addEventListener("DOMContentLoaded", () => {
           // GO TO THE NEXT COLUMN AND RESET ROWS INDICATOR (START FROM -1 AGAIN)
           colIndicator++;
           rowIndicator = -1;
-          // EMPTY OUR TEMP TABLE BECAUSE WE REACHED THE END OF CURRENT ROW
+          // EMPTY OUR TEMP TABLE BECAUSE WE REACHED THE END OF CURRENT COLUMN
           tempCells = [];
         } else {
           tempCells.shift();
