@@ -20,12 +20,12 @@ but for the sake of simplicity i let everything in one file
 # INSTALLATION - SETUP
 
 - clone repo into a new folder
-- install vscode
-- open project folder in vscode
+- open project folder
 - double click on index.html
 
 # EDIT CODE
 
+- install vscode
 - install live server package (from vscode package store )
 - open project folder in vscode
-- click on index.html and open it in live server.
+- right click on index.html and open it in live server.
